@@ -1,0 +1,8 @@
+# API key wali file kabhi upload nahi hogi
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+venv/
+env/
