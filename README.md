@@ -28,7 +28,7 @@ Students can upload their CV and instantly receive:
 
 | Environment                       | URL                                              |
 | --------------------------------- | ------------------------------------------------ |
-| Frontend (Netlify)                | https://capable-kataifi-ca907a.netlify.app         |
+| Frontend (Netlify)                | https://merry-froyo-3e6b9d.netlify.app/      |
 | Backend API (Hugging Face Spaces) | https://minal-sadiq-cv-analyzer-backend.hf.space |
 
 ---
